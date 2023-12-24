@@ -38,5 +38,12 @@ public class Hashshmap {
 			System.out.println(entry_203.getValue());
 
 		}
+System.out.println("India Squad - ICC Cricket World Cup 2023");
+		System.out.println("---------------------------------------");
+		for (Map.Entry<Integer, String> entry_203 : k.entrySet()) {
+			System.out.println(entry_203.getKey());
+			System.out.println(entry_203.getValue());
+
+		}
 	}
 }
