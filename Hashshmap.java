@@ -45,5 +45,6 @@ System.out.println("India Squad - ICC Cricket World Cup 2023");
 			System.out.println(entry_203.getValue());
 
 		}
+
 	}
 }
