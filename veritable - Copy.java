@@ -38,6 +38,64 @@ public class veritable {
 		float mango=a;
 		System.out.println("mango is national tree "+mango);
 		System.out.println("====----====================----");
+
+
+
+		System.out.println("--------------------------");
+		 //short datatype
+		short quality=1000;
+		System.out.println("quality is same "+ quality);
+		System.out.println("-------------");
+		//double data_type
+		double apple=10000.0;
+		System.out.println("one apple "+ apple);
+		System.out.println("--------");
+		//long data_type
+		long eat=8000000;
+		System.out.println("eat is always "+ eat);
+		System.out.println("----");
+		//float data_type
+		float mango=a;
+		System.out.println("mango is national tree "+mango);
+		System.out.println("====----====================----");
+
+
+System.out.println("--------------------------");
+		 //short datatype
+		short quality=1000;
+		System.out.println("quality is same "+ quality);
+		System.out.println("-------------");
+		//double data_type
+		double apple=10000.0;
+		System.out.println("one apple "+ apple);
+		System.out.println("--------");
+		//long data_type
+		long eat=8000000;
+		System.out.println("eat is always "+ eat);
+		System.out.println("----");
+		//float data_type
+		float mango=a;
+		System.out.println("mango is national tree "+mango);
+		System.out.println("====----====================----");
+
+System.out.println("--------------------------");
+		 //short datatype
+		short quality=1000;
+		System.out.println("quality is same "+ quality);
+		System.out.println("-------------");
+		//double data_type
+		double apple=10000.0;
+		System.out.println("one apple "+ apple);
+		System.out.println("--------");
+		//long data_type
+		long eat=8000000;
+		System.out.println("eat is always "+ eat);
+		System.out.println("----");
+		//float data_type
+		float mango=a;
+		System.out.println("mango is national tree "+mango);
+		System.out.println("====----====================----");
+
 	}
 
 }
