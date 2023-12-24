@@ -31,6 +31,29 @@ public class HashMap_Test_2 {
 	Map.Entry entry = (Entry) itr.next();
     System.out.println(entry.getKey() + "->" + entry.getValue());
 
+while (itr.hasNext()) {
+	// System.out.println(itr.next());
+
+	Map.Entry entry = (Entry) itr.next();
+    System.out.println(entry.getKey() + "->" + entry.getValue());
+
+while (itr.hasNext()) {
+	// System.out.println(itr.next());
+
+	Map.Entry entry = (Entry) itr.next();
+    System.out.println(entry.getKey() + "->" + entry.getValue());
+while (itr.hasNext()) {
+	// System.out.println(itr.next());
+
+	Map.Entry entry = (Entry) itr.next();
+    System.out.println(entry.getKey() + "->" + entry.getValue());
+while (itr.hasNext()) {
+	// System.out.println(itr.next());
+
+	Map.Entry entry = (Entry) itr.next();
+    System.out.println(entry.getKey() + "->" + entry.getValue());
+
+
 		}
 	}
 
